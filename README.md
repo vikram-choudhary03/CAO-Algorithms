@@ -1,6 +1,6 @@
 # CAO-Algorithms
 This repo contains the algorithms of  Booth Multiplication and Restoring Division. 
-Code is written in C++ language. 
+Code is written in C++ language completely by myself :)). 
 
 Below is the screenshot of the Ouput of the Both algorithms.
 
